@@ -1,0 +1,1 @@
+print_tutorial_text("One more spell that you currently have is the Firespin\n\n(press N).");

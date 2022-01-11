@@ -1,0 +1,1 @@
+print_tutorial_text("Don't forget to check out your items from the inventory.");

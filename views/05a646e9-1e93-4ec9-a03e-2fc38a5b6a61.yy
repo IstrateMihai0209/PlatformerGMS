@@ -1,0 +1,32 @@
+{
+    "id": "05a646e9-1e93-4ec9-a03e-2fc38a5b6a61",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "05a646e9-1e93-4ec9-a03e-2fc38a5b6a61",
+    "children": [
+        "bb1161fb-f31d-45a9-866b-433149ebaf0b",
+        "1b866637-d5f5-45d7-b52b-83aa69404e72",
+        "9b0e1ce1-3abc-4e66-aa0e-aa9c186d7452",
+        "0d4d5e7b-ba53-4539-9d4b-7b60852fd0be",
+        "39c85dce-a211-447d-a729-2e9b08623f6f",
+        "d40c969c-c724-4109-88cc-01ea0afe6974",
+        "1b41f954-b05b-4a86-ad7f-9f1527dbd6d4",
+        "07545c9d-07c7-4895-8d71-8924b114a3fc",
+        "9b27f29a-fc32-44c8-8c45-96d40c2bd254",
+        "4c09578f-6f61-4811-9bdf-7bc44a44bdd8",
+        "85898298-8fe3-47e8-b29c-c4157cceb099",
+        "9ae86bcf-1a50-4a35-9dcb-87e59377c07a",
+        "ee3545e4-d608-4b30-8811-1a31ac5aaf72",
+        "cae38853-b086-460a-98b9-d8ff2d403169",
+        "02ec28d6-d1b6-437e-abc9-e741b39261f4",
+        "56bbd621-66f5-40d2-b060-f6c512581b75",
+        "2765b010-0a4b-476d-b319-3989b1ea9e0b",
+        "937e7183-d79d-4c60-9624-0eabb696b1fc",
+        "10632be7-5e44-4197-ae0b-4ec77f8e30f9",
+        "13a3e42b-30ff-43e0-a51b-ffd5e27a9dec"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Real Player Animations Style A",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

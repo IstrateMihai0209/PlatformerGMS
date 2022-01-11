@@ -1,0 +1,1 @@
+item = ONoDamage2Collectable;
